@@ -1,0 +1,11 @@
+C:\Users\steven\Documents\Code\classwork\C#\C#2\FinalWarhammer\FinalWarhammer\bin\Debug\Warhammer.mdb
+C:\Users\steven\Documents\Code\classwork\C#\C#2\FinalWarhammer\FinalWarhammer\bin\Debug\FinalWarhammer.exe.config
+C:\Users\steven\Documents\Code\classwork\C#\C#2\FinalWarhammer\FinalWarhammer\bin\Debug\FinalWarhammer.exe
+C:\Users\steven\Documents\Code\classwork\C#\C#2\FinalWarhammer\FinalWarhammer\bin\Debug\FinalWarhammer.pdb
+C:\Users\steven\Documents\Code\classwork\C#\C#2\FinalWarhammer\FinalWarhammer\obj\Debug\FinalWarhammer.csprojAssemblyReference.cache
+C:\Users\steven\Documents\Code\classwork\C#\C#2\FinalWarhammer\FinalWarhammer\obj\Debug\FinalWarhammer.Properties.Resources.resources
+C:\Users\steven\Documents\Code\classwork\C#\C#2\FinalWarhammer\FinalWarhammer\obj\Debug\FinalWarhammer.csproj.GenerateResource.cache
+C:\Users\steven\Documents\Code\classwork\C#\C#2\FinalWarhammer\FinalWarhammer\obj\Debug\FinalWarhammer.exe
+C:\Users\steven\Documents\Code\classwork\C#\C#2\FinalWarhammer\FinalWarhammer\obj\Debug\FinalWarhammer.pdb
+C:\Users\steven\Documents\Code\classwork\C#\C#2\FinalWarhammer\FinalWarhammer\obj\Debug\FinalWarhammer.Form1.resources
+C:\Users\steven\Documents\Code\classwork\C#\C#2\FinalWarhammer\FinalWarhammer\obj\Debug\FinalWarhammer.ArmyStats.resources
